@@ -1,0 +1,8 @@
+name: LootDrop
+version: ${project.version}
+main: me.ispoopie.lootdrop.LootDrop
+api-version: 1.16
+depend: [CustomItems]
+commands:
+  drop:
+    description: Drops loot
